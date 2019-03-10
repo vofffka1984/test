@@ -1,0 +1,65 @@
+*{
+	transition: all .2s ease-in;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+html{border: 15px #2b81ac solid;}
+body {
+	width: 90%;
+	margin: 0 auto;
+	background-color: #3399cc;
+}
+div{
+	background-color: #FFF;
+	border: 2px solid #fff;
+}
+h1{
+	font-size: 30px;
+	color: #FFF;
+	}
+.city{
+	list-style: none;
+	background: #fff;
+	font-size: 0;
+}
+ul{
+	padding: 0;
+	list-style: none;
+	}
+li {
+	display: inline-block;
+	font-size: 26px;
+	text-align: center;
+	height: 120px;
+	color: #FFF;
+	margin: .5%;
+	padding-top: 30px;
+	opacity: 0.6;
+}
+
+.lis{width: 49%;background-color: #3399cc;}
+.par{width: 24%;background-color: #33cccc;}
+.bel{width: 24%;background-color: #996699;}
+.mos{width: 24%;background-color: #c24747;}
+.avi{width: 24%;background-color: #e2674a;}
+.cai{width: 24%;background-color: #ffcc66;}
+.nyk{width: 24%;background-color: #99cc99;}
+.ndl{width: 24%;background-color: #669999;}
+.sfr{width: 49%;background-color: #cc6699;}
+.tok{width: 24%;background-color: #339966;}
+.syd{width: 99%;background-color: #666699;}
+.wi{font-size: 28px; color:rgba(255,255,255,.8); }
+p{
+	font-size: 22px;
+	color: #FFF;
+	}
+.temp{
+	color:rgba(255,255,255,.8);
+	font-size: 26px;
+}
+.wi{font-size: 36px;}
+li:focus,
+li:active,
+li:hover{
+	 opacity: 1;
+}
+
